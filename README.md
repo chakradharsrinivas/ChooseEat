@@ -11,6 +11,7 @@ To work upon the code, we used Visual Studio Code as a text editor and compiler.
 The ChooseEat website allows users to order food from local restaurants or food cooperatives. As with ordering consumer goods online, many of these also allow
 customers to maintain accounts with them to make ordering easier in the future. A customer will search for a favorite restaurant, usually filtered via type of cuisine and
 choose from available items, and place the order.
+#### You can find a detailed and clear explanation about the functionalities of the project in the report attached.
 #### Here is the live [link](https://chooseeat.herokuapp.com/)
 #### Run
 ##### 1 - Clone repo
